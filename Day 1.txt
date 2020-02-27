@@ -1,0 +1,28 @@
+DAY 1 :
+Topics:
+1. String and Time Complexity
+2. Modular arithmetic
+3. Fermat’s Little Principle
+4. Modular exponentiation
+5. Greatest Common Divisor (GCD)
+6. Extended Euclidean algorithm
+7. Modular multiplicative inverse
+8. Primality Tests
+9. Sieve of Eratosthenes
+References:
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/tutorial/
+https://www.hackerearth.com/practice/math/number-theory/primality-tests/tutorial/
+
+Problems:
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/diedie/                   (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/               (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/    (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/beautiful-primes/         (Level 2)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/great-arjit-and-numbers/  (Level 2)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/        (Level 3)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/beautiful-primes/         (Level 3+)
+
+
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/nearest-prime-a828361b/   (Level 2+)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sum-of-primes-7/          (Level 2+)
