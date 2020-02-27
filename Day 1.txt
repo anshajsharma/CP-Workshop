@@ -10,6 +10,7 @@ Topics:
 8. Primality Tests
 9. Sieve of Eratosthenes
 References:
+https://www.geeksforgeeks.org/number-theory-competitive-programming/  --->  (Everything at one Place)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/tutorial/
 https://www.hackerearth.com/practice/math/number-theory/primality-tests/tutorial/
