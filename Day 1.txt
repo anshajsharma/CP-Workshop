@@ -26,3 +26,7 @@ https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/pr
 
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/nearest-prime-a828361b/   (Level 2+)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sum-of-primes-7/          (Level 2+)
+
+
+
+
