@@ -1,14 +1,11 @@
 DAY 1 :
 Topics:
+
 1. String and Time Complexity
 2. Modular arithmetic
 3. Fermat’s Little Principle
-4. Modular exponentiation
-5. Greatest Common Divisor (GCD)
-6. Extended Euclidean algorithm
-7. Modular multiplicative inverse
-8. Primality Tests
-9. Sieve of Eratosthenes
+4. Primality Tests
+5. Sieve of Eratosthenes
 References:
 https://www.geeksforgeeks.org/number-theory-competitive-programming/  --->  (Everything at one Place)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
@@ -17,28 +14,28 @@ https://www.hackerearth.com/practice/math/number-theory/primality-tests/tutorial
 
 Problems:
 
-https://www.hackerrank.com/challenges/migratory-birds/problem 
-https://www.hackerearth.com/challenges/college/VishwakarmaCup/algorithm/5a010f76d68940c5bf34420501a87515/ (string + prefix sums)
-string problems:-
-https://codeforces.com/problemset/problem/1201/A
-https://codeforces.com/problemset/problem/1155/A
-https://codeforces.com/problemset/problem/1140/B
-https://codeforces.com/contest/1178/problem/E (good one)
-Maths(in class)
+BASIC:-
+https://www.hackerrank.com/challenges/migratory-birds/problem   (Similar Concepts Discussed in Class)
+
+String problems:-
+https://codeforces.com/problemset/problem/1201/A	(Level 1)    
+https://codeforces.com/problemset/problem/1155/A	(Level 1)     
+https://codeforces.com/problemset/problem/1140/B	(Level 1)
+https://www.hackerearth.com/challenges/college/VishwakarmaCup/algorithm/5a010f76d68940c5bf34420501a87515/ (string + prefix sums) (read about anagrams and palindrome)
+https://codeforces.com/contest/1178/problem/E 		(good one)
+
+Maths:
+
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/panda-and-chain-reaction/
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-simple-task/
-
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/diedie/                   (Level 1)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/               (Level 1)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/    (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-simple-task/    	    (slightly hard)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/beautiful-primes/         (Level 2)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/great-arjit-and-numbers/  (Level 2)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/        (Level 3)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/beautiful-primes/         (Level 3+)
-
-
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/nearest-prime-a828361b/   (Level 2+)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sum-of-primes-7/          (Level 2+)
+
+
+
+
+
 
 
 
