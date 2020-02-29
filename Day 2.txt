@@ -18,4 +18,4 @@ https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/pr
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/    (Level 1)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/great-arjit-and-numbers/  (Level 2)
 https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/        (Level 3)
-https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/roy-and-birthday/
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/roy-and-birthday/         (Level 1+)
