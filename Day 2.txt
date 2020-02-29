@@ -1,0 +1,20 @@
+DAY 2 :
+Topics Discussed:
+1. Lucas Theorem
+2. Modular exponentiation
+3. Modular multiplicative inverse
+4. Permutation & Combination
+
+References:
+https://www.geeksforgeeks.org/number-theory-competitive-programming/      --->(Everything at one Place)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/tutorial/
+https://www.hackerearth.com/practice/math/number-theory/primality-tests/tutorial/
+
+
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/diedie/                   (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/name-count/               (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/the-easy-one-0de35805/    (Level 1)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/great-arjit-and-numbers/  (Level 2)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/        (Level 3)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/roy-and-birthday/

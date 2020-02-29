@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+const long mod=pow(10,9)+7;
+ll modularExponentiation(ll x,ll n,ll M)
+{
+    ll result=1;
+    while(n>0)
+    {
+        if(n % 2 ==1)
+            result=(result * x)%M;
+        x=(x*x)%M;
+        n=n/2;
+    }
+    return result;
+}
+
+ll modInverse(ll A,ll M)   // Only when M is Prime......
+{
+    return modularExponentiation(A,M-2,M);
+}
+
+int main()
+{
+  
+    long n;
+    cin>>n;
+    while(n--)
+    {
+        ll x,y,ans;
+        cin>>x>>y;
+        ans=modularExponentiation(x,y,mod);
+        cout<<ans<<endl;
+    }
+    
+}
