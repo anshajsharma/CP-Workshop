@@ -1,0 +1,32 @@
+ll fact[100005];
+ll invfact[100005];
+ll power(ll x,ll y)
+{
+    if(y==0)
+    return 1;
+    
+    if(y%2==0)
+    return power((x*x)%mod,y/2)%mod;
+    else
+    return (x*power((x*x)%mod,y/2))%mod;
+}
+ll ncr(ll n,ll r)
+{
+    ll ans=1;
+    ans=(ans*fact[n])%mod;
+    ans=(ans*invfact[r])%mod;
+    ans=(ans*invfact[n-r])%mod;
+    
+    return ans;
+}
+
+    fact[1]=1;
+    fact[0]=1;
+    for(int i=2;i<100005;i++)
+    fact[i]=(fact[i-1]*i)%mod;
+    
+    invfact[100004]=power(fact[100004],mod-2)%mod;
+    for(int i=100004;i>=1;i--)
+    {
+        invfact[i-1]=(invfact[i]*i)%mod;
+    }
