@@ -1,5 +1,5 @@
 DAY 1 :
-Topics Discussed :
+Topics Discussed : 
 
 1. String and Time Complexity
 2. Modular arithmetic

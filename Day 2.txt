@@ -1,6 +1,6 @@
 DAY 2 :
 Topics Discussed:
-1. Lucas Theorem
+1. Lucas Theorem 
 2. Modular exponentiation
 3. Modular multiplicative inverse
 4. Permutation & Combination

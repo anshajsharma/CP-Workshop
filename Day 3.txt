@@ -1,7 +1,7 @@
 DAY 2 :
 Topics Discussed:
 1. Greatest Common Divisor (GCD)
-2. LCM
+2. LCM 
 3. Inclusion Exclusion
 
 Problems:

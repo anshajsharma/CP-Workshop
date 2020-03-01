@@ -2,7 +2,7 @@
 using namespace std;
 typedef long long ll;
 const long m=pow(10,9)+7;
-ll ncr[2001][2001];
+ll ncr[2001][2001]; 
 void fillup()
 {
     for(int i=0;i<2001;i++)

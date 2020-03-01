@@ -2,7 +2,7 @@ ll fact[100005];
 ll invfact[100005];
 ll power(ll x,ll y)
 {
-    if(y==0)
+    if(y==0) 
     return 1;
     
     if(y%2==0)
