@@ -1,0 +1,18 @@
+DAY 2 :
+Topics Discussed:
+1. Greatest Common Divisor (GCD)
+2. LCM
+3. Inclusion Exclusion
+
+Problems:
+
+(Discussed In Class)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/course-of-study-2/        (Level 3)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/joseph-and-arrayaugclash/ (Level 2+)
+
+(HomeWork)
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/bob-and-mathematics-2/    (Level 3)
+https://codeforces.com/contest/893/problem/E                                                                                        (Level 3)
+https://www.hackerrank.com/challenges/a-chocolate-fiesta/problem                                                                    (Set, Level 2)
+https://codeforces.com/contest/1288/problem/C                                                                                       (Level 3+)(Slightly Difficult)
+
