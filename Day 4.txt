@@ -1,0 +1,27 @@
+DAY 4:
+ 
+Topics Discussed:
+1. XOR Operator
+2. STL
+   i.  Vector
+   ii. Set
+Supportive Topics Discussed:
+ 1. Iterators
+ 2. Struct
+ 3. Class
+ 4. Comparator Function 
+
+Refrences:
+https://www.hackerearth.com/practice/notes/standard-template-library/       (Read Whole Page) 
+https://www.geeksforgeeks.org/the-c-standard-template-library-stl/          (Everything About STLs At One Place)
+
+Problems:
+
+https://www.hackerrank.com/contests/pcon-round-1/challenges/mr-x-and-choices
+https://www.hackerrank.com/challenges/cpp-maps/problem
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prateek-and-theories-3/  (Good One)
+
+Basic:
+https://www.hackerrank.com/challenges/vector-sort/problem
+https://www.hackerrank.com/challenges/vector-erase/problem
+https://www.hackerrank.com/challenges/cpp-sets/problem
