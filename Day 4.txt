@@ -20,8 +20,11 @@ Problems:
 https://www.hackerrank.com/contests/pcon-round-1/challenges/mr-x-and-choices
 https://www.hackerrank.com/challenges/cpp-maps/problem
 https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prateek-and-theories-3/  (Good One)
+https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/   (Similar Question Discussed In Class using Struct try to solve)
 
-Basic:
+Basic: (Direct Problems Only Basics Requrired)
 https://www.hackerrank.com/challenges/vector-sort/problem
 https://www.hackerrank.com/challenges/vector-erase/problem
 https://www.hackerrank.com/challenges/cpp-sets/problem
+https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/
+https://www.hackerearth.com/problem/algorithm/monks-birthday-party/
